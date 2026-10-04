@@ -10,7 +10,7 @@ The current UI in `frontend/` is a working reference implementation of everythin
 
 ## 1. Quick start (5 minutes, no GPU or ML install needed)
 
-You need **any Python 3.9+** (standard library only) and the project folder.
+You need **Python 3** (standard library only; tested with Python 3.14) and the project folder.
 
 ```bash
 # from the project folder

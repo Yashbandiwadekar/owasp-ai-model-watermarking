@@ -77,7 +77,7 @@ Numbers vary slightly per retrain: the seed is random each time `01_train.py` ru
 
 ## Setting up the ML environment (live runs only)
 
-UI work doesn't need this: `server.py` serves saved results with any Python 3.9+, and `--simulate` replays recorded runs. For live runs, from the `demo` folder:
+UI work doesn't need this: `server.py` serves saved results with any Python 3 (tested with 3.14), and `--simulate` replays recorded runs. For live runs, from the `demo` folder:
 
 ```powershell
 python -m venv .venv

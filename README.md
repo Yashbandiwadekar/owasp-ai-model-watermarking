@@ -21,7 +21,7 @@ The demo is evaluated against the OWASP AI Exchange `#MODEL WATERMARKING` requir
 ## Run
 
 ```bash
-python demo/server.py --simulate      # any Python 3.9+, no ML install: saved results + replayed runs
+python demo/server.py --simulate      # any Python 3 (tested: 3.14), no ML install: saved results + replayed runs
 python demo/server.py                 # live runs: needs demo/.venv (see demo/README.md)
 ```
 
